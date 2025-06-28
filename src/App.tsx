@@ -17,11 +17,11 @@ import Contact from './pages/Contact'
 import Profile from './pages/Profile'
 
 // Admin Pages
-import AdminDashboard from './pages/admin/Dashboard'
-import AdminProducts from './pages/admin/Products'
-import AdminOrders from './pages/admin/Orders'
-import AdminUsers from './pages/admin/Users'
-import AdminMessages from './pages/admin/Messages'
+import AdminDashboard from './pages/admin/Dashboard.tsx'
+import AdminProducts from './pages/admin/Products.tsx'
+import AdminOrders from './pages/admin/Orders.tsx'
+import AdminUsers from './pages/admin/Users.tsx'
+import AdminMessages from './pages/admin/Messages.tsx'
 
 // Components
 import Layout from './components/Layout'
