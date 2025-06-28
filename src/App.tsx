@@ -15,7 +15,6 @@ import Orders from './pages/Orders'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import Profile from './pages/Profile'
-import Search from './pages/Search'
 
 // Admin Pages
 import AdminDashboard from './pages/admin/Dashboard'
@@ -53,7 +52,6 @@ function App() {
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
           <Route path="profile" element={<Profile />} />
-          <Route path="search" element={<Search />} />
         </Route>
 
         {/* Protected Admin Routes */}
